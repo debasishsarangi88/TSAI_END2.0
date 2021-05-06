@@ -2,16 +2,16 @@
 
 Assignment:
 
-remove the last activation function
-Removed
+1.remove the last activation function
+ Removed
 
-make sure there are in total 44 parameters
+2. make sure there are in total 44 parameters
 self.lin1 = nn.Linear(input_dim, 11,)
 self.lin2 = nn.Linear(11, output_dim,bias=False)
 
 Using above tweak to the network 44 parameter is reached.
 
-run it for 2001 epochs
+3.run it for 2001 epochs
 
 Completed
 
