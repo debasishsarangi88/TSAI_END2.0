@@ -2,15 +2,15 @@
 
 Assignment:
 
-1.remove the last activation function
+1.remove the last activation function--
  Removed
 
-2. make sure there are in total 44 parameters
+2. make sure there are in total 44 parameters--
     self.lin1 = nn.Linear(input_dim, 11,)
     self.lin2 = nn.Linear(11, output_dim,bias=False)
 Using above tweak to the network 44 parameter is reached.
 
-3.run it for 2001 epochs
+3.run it for 2001 epochs--
 
   Completed
 
@@ -49,9 +49,8 @@ Binary cross entropy,
 Categorical cross entropy and
 Sparse Categorical Cross entropy
 
-Mean Sqauared Error loss is used for regression tasks
-Binary cross entropy loss is used for the binary classification tasks.
-Categorical cross entropy and Sparse Categorical Cross entropy are used for multi-class classification task.
+Mean Sqauared Error loss is used for regression tasks where as Binary cross entropy loss is used for the binary classification tasks.
+However,Categorical cross entropy and Sparse Categorical Cross entropy are used for multi-class classification task.
 
 5. What is the "chain rule" in gradient flow?
 The chain rule is used for calculating the derivative of composite functions.
