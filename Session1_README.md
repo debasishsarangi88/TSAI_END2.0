@@ -1,5 +1,14 @@
 # TSAI_END2.0
 
+Assignment:
+remove the last activation function
+make sure there are in total 44 parameters
+run it for 2001 epochs
+
+
+
+
+
 1. What is a neural network neuron?
  Neural network neurons are volatile storage units that stores information.
 if it is on input layer then it contains raw input data,if it is in hidden layer
