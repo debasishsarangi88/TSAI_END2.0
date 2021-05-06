@@ -6,12 +6,12 @@ Assignment:
  Removed
 
 2. make sure there are in total 44 parameters<br>
-    self.lin1 = nn.Linear(input_dim, 11,)
-    self.lin2 = nn.Linear(11, output_dim,bias=False)
+ self.lin1 = nn.Linear(input_dim, 11,)<br>
+ self.lin2 = nn.Linear(11, output_dim,bias=False)<br>
 Using above tweak to the network 44 parameter is reached.
 
 3.run it for 2001 epochs<br>
- Completed
+Completed
 
 Questions and Answers
 
