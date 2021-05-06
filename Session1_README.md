@@ -35,7 +35,7 @@ for the optimization (learning or training) of the neural network model.
 The aim of weight initialization is to prevent layer activation outputs from exploding or vanishing during the course of a forward pass.
 Xavier Glorot and Yoshua Bengio came up with a weigth initialization technique which is also known as Xavier/normalized initialization.
 Xavier initialization sets a layer’s weights to values chosen from a random uniform distribution that’s bounded between
-plus or minus [Sqrt(6)/sqrt(n+(m))] where n is number of incoming network connections to the layer and m is the number of outgoing network connections form the layer.
+plus or minus [Sqrt(2)/sqrt(n+(m))] where n is number of incoming network connections to the layer and m is the number of outgoing network connections form the layer.
 Xavier initializationworks well for networks with Sigmoid/tanh activation functions.
 Where as for network with relu activation function kaiming initialization can be used.
 
