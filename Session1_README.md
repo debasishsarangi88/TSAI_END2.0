@@ -29,13 +29,13 @@ loss is the difference between the predicted versus the actual value in the neur
 There are different types of loss function is used whose objective is to minimize the loss.
 Few of the different types of loss functions are :
 
-A> Mean Sqauared Error
-B> Binary cross entropy
-C> Categorical cross entropy
-D> Sparse Categorical Cross entropy
+ Mean Sqauared Error
+ Binary cross entropy
+ Categorical cross entropy
+ Sparse Categorical Cross entropy
 
-MSE loss is used for regression tasks
-BCE loss is used for the binary classification tasks.
+Mean Sqauared Error loss is used for regression tasks
+Binary cross entropy loss is used for the binary classification tasks.
 Categorical cross entropy and Sparse Categorical Cross entropy are used for multi-class classification task.
 
 5. What is the "chain rule" in gradient flow?
