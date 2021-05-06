@@ -25,7 +25,7 @@ then it has value of previous layer neuron multiplied by weight associated with 
 The learning rate controls how quickly the model is trained on the problem. 
 Smaller learning rates require more training epochs, since there will be smaller changes made to the weights on each update, 
 whereas larger learning rates result in rapid changes and require fewer training epochs.
-Genarally learnign rate ranges between 0.0 and 1.0
+Generally learning rate ranges between 0.0 and 1.0
 
 
 3. How are weights initialized?<br>
