@@ -6,14 +6,13 @@ Assignment:
  Removed
 
 2. make sure there are in total 44 parameters
-self.lin1 = nn.Linear(input_dim, 11,)
-self.lin2 = nn.Linear(11, output_dim,bias=False)
-
+    self.lin1 = nn.Linear(input_dim, 11,)
+    self.lin2 = nn.Linear(11, output_dim,bias=False)
 Using above tweak to the network 44 parameter is reached.
 
 3.run it for 2001 epochs
 
-Completed
+  Completed
 
 
 
@@ -45,11 +44,10 @@ Where as for network with relu activation function kaiming initialization can be
 loss is the difference between the predicted versus the actual value in the neural network.
 There are different types of loss function is used whose objective is to minimize the loss.
 Few of the different types of loss functions are :
-
- Mean Sqauared Error
- Binary cross entropy
- Categorical cross entropy
- Sparse Categorical Cross entropy
+Mean Sqauared Error,
+Binary cross entropy,
+Categorical cross entropy and
+Sparse Categorical Cross entropy
 
 Mean Sqauared Error loss is used for regression tasks
 Binary cross entropy loss is used for the binary classification tasks.
