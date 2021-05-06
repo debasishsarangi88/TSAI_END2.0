@@ -10,11 +10,9 @@ Assignment:
     self.lin2 = nn.Linear(11, output_dim,bias=False)
 Using above tweak to the network 44 parameter is reached.
 
-3.run it for 2001 epochs--
+3.run it for 2001 epochs--Completed
 
-  Completed
-
-
+Questions and Answers
 
 1. What is a neural network neuron?
  Neural network neurons are volatile storage units that stores information.
