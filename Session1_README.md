@@ -14,7 +14,7 @@ Using above tweak to the network 44 parameter is reached.
 
 Questions and Answers
 
-1. What is a neural network neuron?
+1. What is a neural network neuron?<br>
  Neural network neurons are volatile storage units that stores information.
 if it is on input layer then it contains raw input data,if it is in hidden layer
 then it has value of previous layer neuron multiplied by weight associated with it and bias added to the final result.
