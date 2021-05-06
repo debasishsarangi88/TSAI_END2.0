@@ -47,8 +47,7 @@ Few of the different types of loss functions are :
 Mean Sqauared Error,
 Binary cross entropy,
 Categorical cross entropy and
-Sparse Categorical Cross entropy
-
+Sparse Categorical Cross entropy. 
 Mean Sqauared Error loss is used for regression tasks where as Binary cross entropy loss is used for the binary classification tasks.
 However,Categorical cross entropy and Sparse Categorical Cross entropy are used for multi-class classification task.
 
