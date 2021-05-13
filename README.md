@@ -53,7 +53,7 @@ Learning rate =0.2 <br>
 Better convergence compared to 0.1 but still network not converging due to low learning rate.
 
 Learning rate =0.5<br>
-![learning_rate0 5](https://user-images.githubusercontent.com/39134120/118126085-71b60800-b415-11eb-9df2-03c6af679fe5.JPG)
+![learning_rate0 5](https://user-images.githubusercontent.com/39134120/118127381-3e747880-b417-11eb-947a-534b35a86fb4.JPG)
 
 Better convergence of network at learning rate of 0.5 compared to 0.1 and 0.2.
 
@@ -75,6 +75,9 @@ Learning rate =2<br>
 
 Better convergence of network compared to all previous learning rates. Since this is a small network learning rate of 2 is giving <br>
 good convergence but it is not advisable to start with for neural network with more number of layers.
+
+
+
 
 
 
