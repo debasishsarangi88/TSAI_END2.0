@@ -40,6 +40,45 @@ After using the formula obtained by applying chain rule for backward pass and ru
 when we plot the error rate with respect to the number of epochs we got the following graph.
 ![Trained network_Error_vs_Epochs](https://user-images.githubusercontent.com/39134120/118124626-7a0d4380-b413-11eb-9731-d38dfdc88444.JPG)
 
+We tried with differnt learning rate and following are the graphs for different learning rates.
+
+Learning rate =0.1<br>
+![learning_rate0 1](https://user-images.githubusercontent.com/39134120/118125674-ec325800-b414-11eb-88aa-820b2f328e23.JPG)
+The network is not converging properly due to low learning rate.
+
+Learning rate =0.2 <br>
+![learning_rate0 2](https://user-images.githubusercontent.com/39134120/118125803-12f08e80-b415-11eb-9319-b796cab89ccc.JPG)
+
+Better convergence compared to 0.1 but still network not converging due to low learning rate.
+
+Learning rate =0.5<br>
+![learning_rate0 5](https://user-images.githubusercontent.com/39134120/118126085-71b60800-b415-11eb-9df2-03c6af679fe5.JPG)
+
+Better convergence of network at learning rate of 0.5 compared to 0.1 and 0.2.
+
+Learning rate =0.8<br>
+
+![learning_rate0 8](https://user-images.githubusercontent.com/39134120/118126206-a5912d80-b415-11eb-9fba-14b0c5295f05.JPG)
+
+Better convergence of network at learning rate of 0.8 compared to 0.1,0.2 and 0.5. This learning rate looks optimal.
+
+Learning rate =1<br>
+![learning_rate1](https://user-images.githubusercontent.com/39134120/118126555-1fc1b200-b416-11eb-98ba-0dc28a0494ce.JPG)
+
+Better convergence of network compared to learning rate of 0.1,0.2,0.5 and 0.8. Since this is a small network learning rate of 1 is giving <br>
+good convergence but it is not advisable to start with for neural network with more number of layers.
+
+Learning rate =2<br>
+
+![learning_rate2](https://user-images.githubusercontent.com/39134120/118126820-7cbd6800-b416-11eb-8c6a-d388f6f8d94a.JPG)
+
+Better convergence of network compared to all previous learning rates. Since this is a small network learning rate of 2 is giving <br>
+good convergence but it is not advisable to start with for neural network with more number of layers.
+
+
+
+
+
 
 
 
