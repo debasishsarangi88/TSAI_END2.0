@@ -5,7 +5,7 @@ This readme file explains the one of the coolest assignments i.e. showing forwar
 
 ![Network Structure](https://user-images.githubusercontent.com/39134120/118083756-16682380-b3dd-11eb-937e-56117f5ded97.JPG)
 
-The above image shows the structure of the Neural network.<br>
+The above image shows the architecture of the Neural network.<br>
 We have considered a samller network with less layers as we are doing the entire excercise in MS Excel.<br>
 i1 and i2 are the input layer neurons.<br>
 h1 and h2 are the hidden layer neurons.<br>
