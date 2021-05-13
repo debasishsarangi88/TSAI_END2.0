@@ -44,6 +44,7 @@ We tried with different learning rate and following are the graphs for different
 
 Learning rate =0.1<br>
 ![learning_rate0 1](https://user-images.githubusercontent.com/39134120/118125674-ec325800-b414-11eb-88aa-820b2f328e23.JPG)
+
 The network is not converging properly due to low learning rate.
 
 Learning rate =0.2 <br>
