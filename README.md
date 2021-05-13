@@ -78,7 +78,7 @@ good convergence but it is not advisable to start with for neural network with m
 
 
 
-Note:- All details of weight calculation can be found in "Neural_Net_excel.xlsx" file placed on https://github.com/debasishsarangi88/TSAI_END2.0/edit/Session2/ branch.
+Note:- All details of weight calculation can be found in "Neural_Net_excel.xlsx" file placed on https://github.com/debasishsarangi88/TSAI_END2.0/Session2/ branch.
 
 
 
