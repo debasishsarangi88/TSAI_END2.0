@@ -74,7 +74,7 @@ Learning rate =2<br>
 
 ![learning_rate2](https://user-images.githubusercontent.com/39134120/118126820-7cbd6800-b416-11eb-8c6a-d388f6f8d94a.JPG)
 
-Better convergence of network compared to all previous learning rates. Since this is a small network learning rate of 1 is giving <br>
+Better convergence of network compared to all previous learning rates. Since this is a small network learning rate of 2 is giving <br>
 good convergence but it is not advisable to start with learning rate of 1 for neural network with more number of layers.
 
 
