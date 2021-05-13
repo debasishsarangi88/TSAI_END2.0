@@ -22,5 +22,4 @@ Follwing are the values calculated for different parameters of the above shown N
 
 ![parameter_values](https://user-images.githubusercontent.com/39134120/118086285-53ceb000-b3e1-11eb-81f0-cbdca8630a7e.JPG)
 
-
-
+We know that the chain rule is used for calculating the derivative of composite functions. If a variable z depends on the variable y, which itself depends on the variable x, so that y and z are dependent variables, then z, via the intermediate variable of y, depends on x as well. This is called the chain rule.Just like this the input/hidden layer neuron has impact on the final output obtained in the final layer.The weights associated with the input/hidden layer is optimized via their association with the output layer which itself updated via loss calculated from difference between predicted and actual value.
