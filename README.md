@@ -31,7 +31,7 @@ So using above concept when we calculated values for different parameters we got
 ![Weight_calc3](https://user-images.githubusercontent.com/39134120/118123906-804ef000-b412-11eb-91e1-61adcdb872ed.JPG)
 ![Weight_calc4](https://user-images.githubusercontent.com/39134120/118123929-8644d100-b412-11eb-9847-e6c8b4b9a8db.JPG)
 
-We used learning rate of 0.5
+We used learning rate of 0.5<br>
 ![learning rate](https://user-images.githubusercontent.com/39134120/118124146-cdcb5d00-b412-11eb-9d30-f60148954141.JPG)
 
 After using the formula obtained by applying chain rule for backward pass and running for 39 epochs (dragged the formula to 39 observations) we got the following.
