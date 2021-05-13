@@ -19,6 +19,7 @@ w5 and w7 are the weights from activated hidden layer neuron a_h1 to o1 and o2 r
 w6 and w8 are the weights from activated hidden layer neuron a_h2 to o1 and o2 respectively.<br>
 
 Follwing are the values calculated for different parameters of the above shown Neural network.
+
 ![parameter_values](https://user-images.githubusercontent.com/39134120/118086285-53ceb000-b3e1-11eb-81f0-cbdca8630a7e.JPG)
 
 
