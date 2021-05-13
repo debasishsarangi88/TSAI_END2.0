@@ -13,7 +13,7 @@ h1 and h2 are the hidden layer neurons.<br>
 a_h1 and a_h2 are activated outputs from hidden layer neuron h1 and h2.<br>
 o1 and o2 are the neuron connected to the output layer.<br>
 a_o1 and a_o2 are activated output of o1 and o2 neuron.<br>
-E_total is the output of the network.<br>
+E_total is the total error of the network.<br>
 w1 and w3 are the weights from input layer neuron i1 to h1 and h2 respectively.<br>
 w2 and w4 are the weights from input layer neuron i2 to h1 and h2 respectively.<br>
 w5 and w7 are the weights from activated hidden layer neuron a_h1 to o1 and o2 respectively.<br>
