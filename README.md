@@ -40,7 +40,7 @@ After using the formula obtained by applying chain rule for backward pass and ru
 when we plot the error rate with respect to the number of epochs we got the following graph.
 ![Trained network_Error_vs_Epochs](https://user-images.githubusercontent.com/39134120/118124626-7a0d4380-b413-11eb-9731-d38dfdc88444.JPG)
 
-We tried with differnt learning rate and following are the graphs for different learning rates.
+We tried with different learning rate and following are the graphs for different learning rates.
 
 Learning rate =0.1<br>
 ![learning_rate0 1](https://user-images.githubusercontent.com/39134120/118125674-ec325800-b414-11eb-88aa-820b2f328e23.JPG)
