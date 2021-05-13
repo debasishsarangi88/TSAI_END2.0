@@ -19,17 +19,7 @@ w5 and w7 are the weights from activated hidden layer neuron a_h1 to o1 and o2 r
 w6 and w8 are the weights from activated hidden layer neuron a_h2 to o1 and o2 respectively.<br>
 
 Follwing are the values calculated for different parameters of the above shown Neural network.
+![parameter_values](https://user-images.githubusercontent.com/39134120/118086285-53ceb000-b3e1-11eb-81f0-cbdca8630a7e.JPG)
 
-h1=(w1*i1)+(w2*i2)<br>
-h2=(w3*i1)+(w4*i2)<br>
-a_h1= σ(h1)=1/{1+exp(-h1)}<br>
-a_h2=σ(h2)=1/{1+exp(-h2)}<br>
-o1=((w5*a_h1)+(w6*a_h2))<br>
-o2=((w7*a_h1)+(w8*a_h2))<br>
-a_o1=σ(o1)<br>
-a_o2=σ(o2)<br>
-E1=½*(t1-a_o1)²<br>
-E2=½*(t2-a_o2)²<br>
-E_Total=E1+E2<br>
 
 
