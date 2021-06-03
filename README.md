@@ -51,7 +51,7 @@ Attaching screenshot of our codebase showing our model on GPU.
 
 # Team Members
 - Anirban
-- Debashish
+- Debasish
 - Bipin
 - Meena
 - Pavithra 
