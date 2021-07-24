@@ -1,8 +1,8 @@
-### Neural Net Basics
+# Neural Net Basics
 
 Neural network neuron is a storage unit that stores a number or a "signal". Our neurons in our brain in addition to having a storage unit, also have their own computation unit. A neural network neuron has the computation unit outside it along with a weight (a number) for each neuron. A NN neuron stores the result of the computation of its input based on the weight and the activation function
 
-# Let us see forward and backward pass of a small Neural network in MS Excel.
+### Let us see forward and backward pass of a small Neural network in MS Excel.
 
 ![Network Structure](https://user-images.githubusercontent.com/39134120/118151499-535e0580-b431-11eb-9248-c29fef488986.JPG)
 
