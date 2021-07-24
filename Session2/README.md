@@ -1,7 +1,7 @@
-# TSAI_END2.0
-This Repository is for the TSAI END2.0 Session2 task.
+## Neural Net Basics
 
-This readme file explains the one of the coolest assignments i.e. showing forward and backward pass of a small Neural network in MS Excel.
+
+This readme file explains the one of the forward and backward pass of a small Neural network in MS Excel.
 
 ![Network Structure](https://user-images.githubusercontent.com/39134120/118151499-535e0580-b431-11eb-9248-c29fef488986.JPG)
 
@@ -21,13 +21,16 @@ w6 and w8 are the weights from activated hidden layer neuron a_h2 to o1 and o2 r
 
 Follwing are the values calculated for different parameters of the above shown Neural network.
 
+<img width="206" alt="Forward pass" src="https://user-images.githubusercontent.com/39134120/126879467-6883ed48-0b13-43ee-b3a7-ec2329276a9f.png">
+
+
 ![parameter_values](https://user-images.githubusercontent.com/39134120/118086285-53ceb000-b3e1-11eb-81f0-cbdca8630a7e.JPG)
 
 We know that the chain rule is used for calculating the derivative of composite functions. If a variable z depends on the variable y, which itself depends on the variable x, so that y and z are dependent variables, then z, via the intermediate variable of y, depends on x as well. This is called the chain rule.Just like this the input/hidden layer neuron has impact on the final output obtained in the final layer.The weights associated with the input/hidden layer is optimized via their association with the output layer which itself updated via loss calculated from difference between predicted and actual value.
 
 
-![Network Structure](https://user-images.githubusercontent.com/39134120/118151499-535e0580-b431-11eb-9248-c29fef488986.JPG)
 
+<img width="745" alt="backprop-1" src="https://user-images.githubusercontent.com/39134120/126879428-83ffae65-f3f7-4ab7-ae9b-0644ee2f30a3.png">
 
 
 So using above concept when we calculated values for different parameters we got the following -
