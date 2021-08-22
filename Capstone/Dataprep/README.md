@@ -13,3 +13,10 @@ x: Question: torch.tensor.new_tensor:
 z: Answer Document: https://pytorch.org/docs/stable/generated/torch.Tensor.new_tensor.html#torch.Tensor.new_tensor (Links to an external site.)
 y: Exact Answer: Tensor.new_tensor(data, dtype=None, device=None, requires_grad=False) → Tensor
 Returns a new Tensor with data as the tensor data. By default, the returned Tensor has the same torch.dtype and torch.device as this tensor.
+
+
+The Stackoverflow Question and answer on which file link on which i have worked is -
+
+https://github.com/debasishsarangi88/TSAI_END2.0/blob/main/Capstone/Dataprep/qna_stackoverflow_Debasish.xlsx
+
+The complete Json file is -
