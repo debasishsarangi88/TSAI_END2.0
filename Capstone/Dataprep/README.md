@@ -21,7 +21,7 @@ The Stackoverflow Question and answer annotation on which i have worked is -
 
 https://github.com/debasishsarangi88/TSAI_END2.0/blob/main/Capstone/Dataprep/qna_stackoverflow_Debasish.xlsx
 
-Comibned Stackoverflow team excel file -
+Combined Stackoverflow team excel file -
 
 https://github.com/debasishsarangi88/TSAI_END2.0/blob/main/Capstone/Dataprep/Combined_annotated_QanA_stackoverflow.xlsx
 
