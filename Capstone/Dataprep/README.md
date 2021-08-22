@@ -17,7 +17,7 @@ Returns a new Tensor with data as the tensor data. By default, the returned Tens
 TEAM MEMBERS: Sachin D, Debasish Sarangi, Pavithra Solai, Anirban Mukherjee, Smruthi SR, Krishna N Revi, Asha Anbarasi, Pankaj Goyal.
 Our team worked on Stackoverflow data extraction and annotation.
 
-The Stackoverflow Question and answer on which file link on which i have worked is -
+The Stackoverflow Question and answer annotation on which i have worked is -
 
 https://github.com/debasishsarangi88/TSAI_END2.0/blob/main/Capstone/Dataprep/qna_stackoverflow_Debasish.xlsx
 
