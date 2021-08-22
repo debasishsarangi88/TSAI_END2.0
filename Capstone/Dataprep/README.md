@@ -14,6 +14,8 @@ z: Answer Document: https://pytorch.org/docs/stable/generated/torch.Tensor.new_t
 y: Exact Answer: Tensor.new_tensor(data, dtype=None, device=None, requires_grad=False) → Tensor
 Returns a new Tensor with data as the tensor data. By default, the returned Tensor has the same torch.dtype and torch.device as this tensor.
 
+TEAM MEMBERS: Sachin D, Debasish Sarangi, Pavithra Solai, Anirban Mukherjee, Smruthi SR, Krishna N Revi, Asha Anbarasi, Pankaj Goyal.
+Our team worked on Stackoverflow data extraction and annotation.
 
 The Stackoverflow Question and answer on which file link on which i have worked is -
 
