@@ -1,5 +1,7 @@
 ### END 2.0 Capstone Project
 
+## 1.Data Preparation 
+
 
 This project includes data from Stackoverflow,Pytorch discuss forum data, pytorch documentation data,Pytorch Github team data and Youtube data.
 
@@ -28,6 +30,8 @@ x: Question: torch.tensor.new_tensor:
 z: Answer Document: https://pytorch.org/docs/stable/generated/torch.Tensor.new_tensor.html#torch.Tensor.new_tensor (Links to an external site.)
 y: Exact Answer: Tensor.new_tensor(data, dtype=None, device=None, requires_grad=False) → Tensor
 Returns a new Tensor with data as the tensor data. By default, the returned Tensor has the same torch.dtype and torch.device as this tensor.
+
+## 2. Model Architecture
 
 
 
