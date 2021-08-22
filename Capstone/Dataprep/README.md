@@ -19,4 +19,10 @@ The Stackoverflow Question and answer on which file link on which i have worked 
 
 https://github.com/debasishsarangi88/TSAI_END2.0/blob/main/Capstone/Dataprep/qna_stackoverflow_Debasish.xlsx
 
+Comibned Stackoverflow team excel file -
+
+https://github.com/debasishsarangi88/TSAI_END2.0/blob/main/Capstone/Dataprep/Combined_annotated_QanA_stackoverflow.xlsx
+
 The complete Json file is -
+
+https://github.com/debasishsarangi88/TSAI_END2.0/blob/main/Capstone/Dataprep/Stackoverflow_QandA.json
