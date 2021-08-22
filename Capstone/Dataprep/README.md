@@ -23,6 +23,6 @@ Comibned Stackoverflow team excel file -
 
 https://github.com/debasishsarangi88/TSAI_END2.0/blob/main/Capstone/Dataprep/Combined_annotated_QanA_stackoverflow.xlsx
 
-The complete Json file is -
+The complete Json file of stackoverflow team is -
 
 https://github.com/debasishsarangi88/TSAI_END2.0/blob/main/Capstone/Dataprep/Stackoverflow_QandA.json
