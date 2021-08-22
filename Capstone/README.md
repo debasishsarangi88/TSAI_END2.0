@@ -1,6 +1,6 @@
 # END 2.0 Capstone Project
 
-## 1.Data Preparation 
+## 1. Data Preparation 
 
 
 This project includes data from Stackoverflow,Pytorch discuss forum data, pytorch documentation data,Pytorch Github team data and Youtube data.
