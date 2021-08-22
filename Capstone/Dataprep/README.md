@@ -1,3 +1,6 @@
+This is the Data Preparation step for END2.0 Capstone.
+
+
 The final dataset must look like this:
 
 Example 1:
